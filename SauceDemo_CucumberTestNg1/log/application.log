@@ -1,0 +1,260 @@
+2022-02-03 11:14:07,291 [main] INFO Sauce Labs - ******** Launching browser*********
+2022-02-03 11:14:07,829 [main] INFO Sauce Labs - ******** Opening URL*********
+2022-02-03 11:14:09,810 [main] INFO Sauce Labs - ******** Give login details*********
+2022-02-03 11:14:11,493 [main] INFO Sauce Labs - ********click Login button *********
+2022-02-03 11:14:12,513 [main] INFO Sauce Labs - ********Validate Error Msg if Credentials Invalid********
+2022-02-03 11:17:25,334 [main] INFO Sauce Labs - ******** Launching browser*********
+2022-02-03 11:17:25,917 [main] INFO Sauce Labs - ******** Opening URL*********
+2022-02-03 11:17:27,669 [main] INFO Sauce Labs - ******** Give login details*********
+2022-02-03 11:17:29,062 [main] INFO Sauce Labs - ********click Login button *********
+2022-02-03 11:17:30,014 [main] INFO Sauce Labs - ********Validate Error Msg if Credentials Invalid********
+2022-02-03 11:21:05,751 [main] INFO Sauce Labs - ******** Launching browser*********
+2022-02-03 11:21:06,012 [main] INFO Sauce Labs - ******** Opening URL*********
+2022-02-03 11:21:07,239 [main] INFO Sauce Labs - ******** Give login details*********
+2022-02-03 11:21:08,104 [main] INFO Sauce Labs - ********click Login button *********
+2022-02-03 11:21:08,569 [main] INFO Sauce Labs - ********Validate Error Msg if Credentials Invalid********
+2022-02-03 11:30:54,752 [main] INFO Sauce Labs - ******** Launching browser*********
+2022-02-03 11:30:55,111 [main] INFO Sauce Labs - ******** Opening URL*********
+2022-02-03 11:30:56,718 [main] INFO Sauce Labs - ******** Give login details*********
+2022-02-03 11:30:58,179 [main] INFO Sauce Labs - ********click Login button *********
+2022-02-03 11:30:58,760 [main] INFO Sauce Labs - ********Validate Error Msg if Credentials Invalid********
+2022-02-03 11:42:08,244 [main] INFO Sauce Labs - ******** Launching browser*********
+2022-02-03 11:42:08,487 [main] INFO Sauce Labs - ******** Opening URL*********
+2022-02-03 11:42:09,818 [main] INFO Sauce Labs - ******** Give login details*********
+2022-02-03 11:42:10,660 [main] INFO Sauce Labs - ********click Login button *********
+2022-02-03 11:42:11,070 [main] INFO Sauce Labs - ********Validate Error Msg if Credentials Invalid********
+2022-02-03 11:45:34,973 [main] INFO Sauce Labs - ******** Launching browser*********
+2022-02-03 11:45:35,191 [main] INFO Sauce Labs - ******** Opening URL*********
+2022-02-03 11:45:36,422 [main] INFO Sauce Labs - ******** Give login details*********
+2022-02-03 11:45:37,247 [main] INFO Sauce Labs - ********click Login button *********
+2022-02-03 11:45:37,726 [main] INFO Sauce Labs - ********Validate Error Msg if Credentials Invalid********
+2022-02-03 11:47:37,946 [main] INFO Sauce Labs - ******** Launching browser*********
+2022-02-03 11:47:38,182 [main] INFO Sauce Labs - ******** Opening URL*********
+2022-02-03 11:47:39,412 [main] INFO Sauce Labs - ******** Give login details*********
+2022-02-03 11:47:40,318 [main] INFO Sauce Labs - ********click Login button *********
+2022-02-03 11:47:40,809 [main] INFO Sauce Labs - ********Validate Error Msg if Credentials Invalid********
+2022-02-03 11:49:15,069 [main] INFO Sauce Labs - ******** Launching browser*********
+2022-02-03 11:49:15,293 [main] INFO Sauce Labs - ******** Opening URL*********
+2022-02-03 11:49:16,539 [main] INFO Sauce Labs - ******** Give login details*********
+2022-02-03 11:49:17,364 [main] INFO Sauce Labs - ********click Login button *********
+2022-02-03 11:49:17,932 [main] INFO Sauce Labs - ********Validate Error Msg if Credentials Invalid********
+2022-02-03 11:50:46,174 [main] INFO Sauce Labs - ******** Launching browser*********
+2022-02-03 11:50:46,611 [main] INFO Sauce Labs - ******** Opening URL*********
+2022-02-03 11:50:48,773 [main] INFO Sauce Labs - ******** Give login details*********
+2022-02-03 11:50:49,551 [main] INFO Sauce Labs - ********click Login button *********
+2022-02-03 11:50:50,015 [main] INFO Sauce Labs - ********Validate Error Msg if Credentials Invalid********
+2022-02-03 11:59:39,189 [main] INFO Sauce Labs - ******** Launching browser*********
+2022-02-03 11:59:39,427 [main] INFO Sauce Labs - ******** Opening URL*********
+2022-02-03 11:59:40,918 [main] INFO Sauce Labs - ******** Give login details*********
+2022-02-03 11:59:41,968 [main] INFO Sauce Labs - ********click Login button *********
+2022-02-03 11:59:42,425 [main] INFO Sauce Labs - ********Validate Error Msg if Credentials Invalid********
+2022-02-03 12:08:43,580 [PoolService-0] INFO Sauce Labs - ******** Launching browser*********
+2022-02-03 12:08:43,781 [PoolService-0] INFO Sauce Labs - ******** Opening URL*********
+2022-02-03 12:08:45,013 [PoolService-0] INFO Sauce Labs - ******** Give login details*********
+2022-02-03 12:08:45,840 [PoolService-0] INFO Sauce Labs - ********click Login button *********
+2022-02-03 12:08:46,260 [PoolService-0] INFO Sauce Labs - ********Validate Error Msg if Credentials Invalid********
+2022-02-03 12:09:22,905 [PoolService-3] INFO Sauce Labs - ******** Launching browser*********
+2022-02-03 12:09:23,468 [PoolService-3] INFO Sauce Labs - ******** Opening URL*********
+2022-02-03 12:09:23,958 [PoolService-0] INFO Sauce Labs - ******** Launching browser*********
+2022-02-03 12:09:24,281 [PoolService-0] INFO Sauce Labs - ******** Opening URL*********
+2022-02-03 12:09:24,344 [PoolService-1] INFO Sauce Labs - ******** Launching browser*********
+2022-02-03 12:09:24,590 [PoolService-2] INFO Sauce Labs - ******** Launching browser*********
+2022-02-03 12:09:24,604 [PoolService-1] INFO Sauce Labs - ******** Opening URL*********
+2022-02-03 12:09:24,876 [PoolService-2] INFO Sauce Labs - ******** Opening URL*********
+2022-02-03 12:09:26,924 [PoolService-0] INFO Sauce Labs - ******** Give login details*********
+2022-02-03 12:09:27,163 [PoolService-3] INFO Sauce Labs - ******** Give login details*********
+2022-02-03 12:09:27,420 [PoolService-1] INFO Sauce Labs - ******** Give login details*********
+2022-02-03 12:09:27,683 [PoolService-2] INFO Sauce Labs - ******** Give login details*********
+2022-02-03 12:09:29,512 [PoolService-3] INFO Sauce Labs - ********click Login button *********
+2022-02-03 12:09:29,711 [PoolService-0] INFO Sauce Labs - ********click Login button *********
+2022-02-03 12:09:30,129 [PoolService-1] INFO Sauce Labs - ********click Login button *********
+2022-02-03 12:09:30,361 [PoolService-2] INFO Sauce Labs - ********click Login button *********
+2022-02-03 12:09:31,205 [PoolService-3] INFO Sauce Labs - ********Validate Error Msg if Credentials Invalid********
+2022-02-03 12:09:31,420 [PoolService-0] INFO Sauce Labs - ********Verify whether user logged in or not *********
+2022-02-03 12:09:31,816 [PoolService-1] INFO Sauce Labs - ********Verify whether user logged in or not *********
+2022-02-03 12:09:32,065 [PoolService-2] INFO Sauce Labs - ********Verify whether user logged in or not *********
+2022-02-03 12:36:34,625 [PoolService-1] INFO Sauce Labs - ******** Launching browser*********
+2022-02-03 12:36:34,639 [PoolService-3] INFO Sauce Labs - ******** Launching browser*********
+2022-02-03 12:36:34,628 [PoolService-0] INFO Sauce Labs - ******** Launching browser*********
+2022-02-03 12:36:34,645 [PoolService-2] INFO Sauce Labs - ******** Launching browser*********
+2022-02-03 12:36:35,040 [PoolService-3] INFO Sauce Labs - ******** Opening URL*********
+2022-02-03 12:36:35,241 [PoolService-0] INFO Sauce Labs - ******** Opening URL*********
+2022-02-03 12:36:35,314 [PoolService-2] INFO Sauce Labs - ******** Opening URL*********
+2022-02-03 12:36:35,547 [PoolService-1] INFO Sauce Labs - ******** Opening URL*********
+2022-02-03 12:36:38,350 [PoolService-3] INFO Sauce Labs - ******** Give login details*********
+2022-02-03 12:36:38,577 [PoolService-0] INFO Sauce Labs - ******** Give login details*********
+2022-02-03 12:36:38,972 [PoolService-2] INFO Sauce Labs - ******** Give login details*********
+2022-02-03 12:36:39,491 [PoolService-1] INFO Sauce Labs - ******** Give login details*********
+2022-02-03 12:36:41,797 [PoolService-3] INFO Sauce Labs - ********click Login button *********
+2022-02-03 12:36:42,689 [PoolService-0] INFO Sauce Labs - ********click Login button *********
+2022-02-03 12:36:42,928 [PoolService-2] INFO Sauce Labs - ********click Login button *********
+2022-02-03 12:36:43,213 [PoolService-1] INFO Sauce Labs - ********click Login button *********
+2022-02-03 12:36:44,137 [PoolService-3] INFO Sauce Labs - ********Validate Error Msg if Credentials Invalid********
+2022-02-03 12:36:44,575 [PoolService-0] INFO Sauce Labs - ********Verify whether user logged in or not *********
+2022-02-03 12:36:44,873 [PoolService-2] INFO Sauce Labs - ********Verify whether user logged in or not *********
+2022-02-03 12:36:45,123 [PoolService-1] INFO Sauce Labs - ********Verify whether user logged in or not *********
+2022-02-03 12:41:44,907 [PoolService-3] INFO Sauce Labs - ******** Launching browser*********
+2022-02-03 12:41:44,923 [PoolService-2] INFO Sauce Labs - ******** Launching browser*********
+2022-02-03 12:41:45,000 [PoolService-1] INFO Sauce Labs - ******** Launching browser*********
+2022-02-03 12:41:45,664 [PoolService-3] INFO Sauce Labs - ******** Opening URL*********
+2022-02-03 12:41:45,808 [PoolService-2] INFO Sauce Labs - ******** Opening URL*********
+2022-02-03 12:41:45,866 [PoolService-0] INFO Sauce Labs - ******** Launching browser*********
+2022-02-03 12:41:46,160 [PoolService-0] INFO Sauce Labs - ******** Opening URL*********
+2022-02-03 12:41:46,292 [PoolService-1] INFO Sauce Labs - ******** Opening URL*********
+2022-02-03 12:41:53,205 [PoolService-0] INFO Sauce Labs - ******** Give login details*********
+2022-02-03 12:41:53,408 [PoolService-3] INFO Sauce Labs - ******** Give login details*********
+2022-02-03 12:41:53,690 [PoolService-2] INFO Sauce Labs - ******** Give login details*********
+2022-02-03 12:41:53,977 [PoolService-1] INFO Sauce Labs - ******** Give login details*********
+2022-02-03 12:41:57,112 [PoolService-0] INFO Sauce Labs - ********click Login button *********
+2022-02-03 12:41:57,891 [PoolService-3] INFO Sauce Labs - ********click Login button *********
+2022-02-03 12:41:58,379 [PoolService-2] INFO Sauce Labs - ********click Login button *********
+2022-02-03 12:41:58,657 [PoolService-1] INFO Sauce Labs - ********click Login button *********
+2022-02-03 12:41:59,423 [PoolService-0] INFO Sauce Labs - ********Verify whether user logged in or not *********
+2022-02-03 12:41:59,674 [PoolService-3] INFO Sauce Labs - ********Validate Error Msg if Credentials Invalid********
+2022-02-03 12:41:59,965 [PoolService-2] INFO Sauce Labs - ********Verify whether user logged in or not *********
+2022-02-03 12:42:00,211 [PoolService-1] INFO Sauce Labs - ********Verify whether user logged in or not *********
+2022-02-03 12:43:18,997 [PoolService-1] INFO Sauce Labs - ******** Launching browser*********
+2022-02-03 12:43:18,997 [PoolService-2] INFO Sauce Labs - ******** Launching browser*********
+2022-02-03 12:43:19,566 [PoolService-0] INFO Sauce Labs - ******** Launching browser*********
+2022-02-03 12:43:19,664 [PoolService-2] INFO Sauce Labs - ******** Opening URL*********
+2022-02-03 12:43:19,694 [PoolService-3] INFO Sauce Labs - ******** Launching browser*********
+2022-02-03 12:43:20,041 [PoolService-1] INFO Sauce Labs - ******** Opening URL*********
+2022-02-03 12:43:20,061 [PoolService-3] INFO Sauce Labs - ******** Opening URL*********
+2022-02-03 12:43:20,236 [PoolService-0] INFO Sauce Labs - ******** Opening URL*********
+2022-02-03 12:43:23,271 [PoolService-2] INFO Sauce Labs - ******** Give login details*********
+2022-02-03 12:43:23,507 [PoolService-1] INFO Sauce Labs - ******** Give login details*********
+2022-02-03 12:43:23,797 [PoolService-3] INFO Sauce Labs - ******** Give login details*********
+2022-02-03 12:43:24,132 [PoolService-0] INFO Sauce Labs - ******** Give login details*********
+2022-02-03 12:43:25,966 [PoolService-2] INFO Sauce Labs - ********click Login button *********
+2022-02-03 12:43:26,558 [PoolService-1] INFO Sauce Labs - ********click Login button *********
+2022-02-03 12:43:26,823 [PoolService-3] INFO Sauce Labs - ********click Login button *********
+2022-02-03 12:43:27,130 [PoolService-0] INFO Sauce Labs - ********click Login button *********
+2022-02-03 12:43:27,735 [PoolService-2] INFO Sauce Labs - ********Verify whether user logged in or not *********
+2022-02-03 12:43:28,136 [PoolService-1] INFO Sauce Labs - ********Verify whether user logged in or not *********
+2022-02-03 12:43:28,340 [PoolService-3] INFO Sauce Labs - ********Validate Error Msg if Credentials Invalid********
+2022-02-03 12:43:28,554 [PoolService-0] INFO Sauce Labs - ********Verify whether user logged in or not *********
+2022-02-03 13:23:35,735 [PoolService-1] INFO Sauce Labs - ******** Launching browser*********
+2022-02-03 13:23:35,737 [PoolService-0] INFO Sauce Labs - ******** Launching browser*********
+2022-02-03 13:23:36,751 [PoolService-2] INFO Sauce Labs - ******** Launching browser*********
+2022-02-03 13:23:36,846 [PoolService-1] INFO Sauce Labs - ******** Opening URL*********
+2022-02-03 13:23:37,262 [PoolService-0] INFO Sauce Labs - ******** Opening URL*********
+2022-02-03 13:23:37,296 [PoolService-2] INFO Sauce Labs - ******** Opening URL*********
+2022-02-03 13:23:37,858 [PoolService-3] INFO Sauce Labs - ******** Launching browser*********
+2022-02-03 13:23:38,223 [PoolService-3] INFO Sauce Labs - ******** Opening URL*********
+2022-02-03 13:23:42,007 [PoolService-1] INFO Sauce Labs - ******** Give login details*********
+2022-02-03 13:23:42,224 [PoolService-0] INFO Sauce Labs - ******** Give login details*********
+2022-02-03 13:23:42,680 [PoolService-3] INFO Sauce Labs - ******** Give login details*********
+2022-02-03 13:23:42,996 [PoolService-2] INFO Sauce Labs - ******** Give login details*********
+2022-02-03 13:23:46,947 [PoolService-1] INFO Sauce Labs - ********click Login button *********
+2022-02-03 13:23:47,686 [PoolService-0] INFO Sauce Labs - ********click Login button *********
+2022-02-03 13:27:33,252 [main] INFO Sauce Labs - ******** Launching browser*********
+2022-02-03 13:27:33,650 [main] INFO Sauce Labs - ******** Opening URL*********
+2022-02-03 13:27:35,197 [main] INFO Sauce Labs - ******** Give login details*********
+2022-02-03 13:27:36,603 [main] INFO Sauce Labs - ********click Login button *********
+2022-02-03 13:27:37,560 [main] INFO Sauce Labs - ********Validate Error Msg if Credentials Invalid********
+2022-02-03 13:28:55,081 [main] INFO Sauce Labs - ******** Launching browser*********
+2022-02-03 13:28:55,463 [main] INFO Sauce Labs - ******** Opening URL*********
+2022-02-03 13:28:57,275 [main] INFO Sauce Labs - ******** Give login details*********
+2022-02-03 13:28:59,012 [main] INFO Sauce Labs - ********click Login button *********
+2022-02-03 13:29:00,717 [main] INFO Sauce Labs - ********Verify whether user logged in or not *********
+2022-02-03 13:29:02,866 [main] INFO Sauce Labs - ********User logged in *********
+2022-02-03 13:29:03,543 [main] INFO Sauce Labs - ********Adding product to Cart*********
+2022-02-03 13:29:06,866 [main] INFO Sauce Labs - ********Getting Description and Price of Product from products page*********
+2022-02-03 13:29:07,874 [main] INFO Sauce Labs - ********Validate Product details displayed correctly in Cart page*********
+2022-02-03 13:29:08,634 [main] INFO Sauce Labs - ********Clicking on Checkout btn********
+2022-02-03 13:29:09,273 [main] INFO Sauce Labs - ********Enter Required User Details********
+2022-02-03 13:29:10,653 [main] INFO Sauce Labs - ********Clicking on Continue btn********
+2022-02-03 13:29:11,213 [main] INFO Sauce Labs - ********Clicking on Finish btn********
+2022-02-03 13:29:21,250 [main] INFO Sauce Labs - ******** Launching browser*********
+2022-02-03 13:29:21,579 [main] INFO Sauce Labs - ******** Opening URL*********
+2022-02-03 13:29:23,239 [main] INFO Sauce Labs - ******** Give login details*********
+2022-02-03 13:29:24,790 [main] INFO Sauce Labs - ********click Login button *********
+2022-02-03 13:29:26,782 [main] INFO Sauce Labs - ********Verify whether user logged in or not *********
+2022-02-03 13:29:28,887 [main] INFO Sauce Labs - ********User logged in *********
+2022-02-03 13:29:29,570 [main] INFO Sauce Labs - ********Verify Product Present in Products page********
+2022-02-03 13:29:41,333 [main] INFO Sauce Labs - ******** Launching browser*********
+2022-02-03 13:29:41,752 [main] INFO Sauce Labs - ******** Opening URL*********
+2022-02-03 13:29:43,269 [main] INFO Sauce Labs - ******** Give login details*********
+2022-02-03 13:29:44,557 [main] INFO Sauce Labs - ********click Login button *********
+2022-02-03 13:29:46,159 [main] INFO Sauce Labs - ********Verify whether user logged in or not *********
+2022-02-03 13:29:48,256 [main] INFO Sauce Labs - ********User logged in *********
+2022-02-03 13:29:48,816 [main] INFO Sauce Labs - ********Verify Product Price is Correctly Listed in Product Individual page********
+2022-02-03 13:30:25,362 [main] INFO Sauce Labs - ******** Launching browser*********
+2022-02-03 13:30:25,662 [main] INFO Sauce Labs - ******** Opening URL*********
+2022-02-03 13:30:27,091 [main] INFO Sauce Labs - ******** Give login details*********
+2022-02-03 13:30:28,123 [main] INFO Sauce Labs - ********click Login button *********
+2022-02-03 13:30:28,717 [main] INFO Sauce Labs - ********Validate Error Msg if Credentials Invalid********
+2022-02-03 13:38:17,171 [TestNG] INFO Sauce Labs - ******** Launching browser*********
+2022-02-03 13:38:17,171 [TestNG] INFO Sauce Labs - ******** Launching browser*********
+2022-02-03 13:38:17,696 [TestNG] INFO Sauce Labs - ******** Opening URL*********
+2022-02-03 13:38:17,852 [TestNG] INFO Sauce Labs - ******** Opening URL*********
+2022-02-03 13:38:20,112 [TestNG] INFO Sauce Labs - ******** Give login details*********
+2022-02-03 13:38:20,444 [TestNG] INFO Sauce Labs - ******** Give login details*********
+2022-02-03 13:38:22,404 [TestNG] INFO Sauce Labs - ********click Login button *********
+2022-02-03 13:38:22,836 [TestNG] INFO Sauce Labs - ********click Login button *********
+2022-02-03 13:38:23,570 [TestNG] INFO Sauce Labs - ********Verify whether user logged in or not *********
+2022-02-03 13:38:23,825 [TestNG] INFO Sauce Labs - ********Verify whether user logged in or not *********
+2022-02-03 13:38:58,884 [TestNG] INFO Sauce Labs - ******** Launching browser*********
+2022-02-03 13:38:59,319 [TestNG] INFO Sauce Labs - ******** Opening URL*********
+2022-02-03 13:39:00,878 [TestNG] INFO Sauce Labs - ******** Give login details*********
+2022-02-03 13:39:02,077 [TestNG] INFO Sauce Labs - ********click Login button *********
+2022-02-03 13:39:04,011 [TestNG] INFO Sauce Labs - ********Verify whether user logged in or not *********
+2022-02-03 13:39:06,204 [TestNG] INFO Sauce Labs - ********User logged in *********
+2022-02-03 13:39:06,943 [TestNG] INFO Sauce Labs - ********Verify Product Present in Products page********
+2022-02-03 13:49:49,573 [TestNG] INFO Sauce Labs - ******** Launching browser*********
+2022-02-03 13:49:50,049 [TestNG] INFO Sauce Labs - ******** Launching browser*********
+2022-02-03 13:49:50,314 [TestNG] INFO Sauce Labs - ******** Opening URL*********
+2022-02-03 13:49:50,428 [TestNG] INFO Sauce Labs - ******** Opening URL*********
+2022-02-03 13:49:53,433 [TestNG] INFO Sauce Labs - ******** Give login details*********
+2022-02-03 13:49:53,652 [TestNG] INFO Sauce Labs - ******** Give login details*********
+2022-02-03 13:49:54,815 [TestNG] INFO Sauce Labs - ********click Login button *********
+2022-02-03 13:49:55,226 [TestNG] INFO Sauce Labs - ********click Login button *********
+2022-02-03 13:49:56,018 [TestNG] INFO Sauce Labs - ********Validate Error Msg if Credentials Invalid********
+2022-02-03 13:49:56,380 [TestNG] INFO Sauce Labs - ********Verify whether user logged in or not *********
+2022-02-03 15:48:09,931 [main] INFO Sauce Labs - ******** Launching browser*********
+2022-02-03 15:48:10,607 [main] INFO Sauce Labs - ******** Opening URL*********
+2022-02-03 15:55:27,064 [main] INFO Sauce Labs - ******** Launching browser*********
+2022-02-03 15:55:27,446 [main] INFO Sauce Labs - ******** Opening URL*********
+2022-02-03 15:55:29,032 [main] INFO Sauce Labs - ******** Give login details*********
+2022-02-03 15:55:30,511 [main] INFO Sauce Labs - ********click Login button *********
+2022-02-03 15:55:31,992 [main] INFO Sauce Labs - ********Verify whether user logged in or not *********
+2022-02-03 15:55:33,057 [main] INFO Sauce Labs - ********User logged in *********
+2022-02-03 15:55:33,484 [main] INFO Sauce Labs - ********Adding product to Cart*********
+2022-02-03 15:55:36,331 [main] INFO Sauce Labs - ********Getting Description and Price of Product from products page*********
+2022-02-03 15:55:37,000 [main] INFO Sauce Labs - ********Validate Product details displayed correctly in Cart page*********
+2022-02-03 15:55:37,745 [main] INFO Sauce Labs - ********Clicking on Checkout btn********
+2022-02-03 15:55:38,147 [main] INFO Sauce Labs - ********Enter Required User Details********
+2022-02-03 15:55:39,542 [main] INFO Sauce Labs - ********Clicking on Continue btn********
+2022-02-03 15:55:40,077 [main] INFO Sauce Labs - ********Clicking on Finish btn********
+2022-02-03 16:12:05,579 [main] INFO Sauce Labs - ******** Launching browser*********
+2022-02-03 16:12:06,063 [main] INFO Sauce Labs - ******** Opening URL*********
+2022-02-03 16:12:07,758 [main] INFO Sauce Labs - ******** Give login details*********
+2022-02-03 16:12:09,165 [main] INFO Sauce Labs - ********click Login button *********
+2022-02-03 16:12:11,025 [main] INFO Sauce Labs - ********Verify whether user logged in or not *********
+2022-02-03 16:12:12,222 [main] INFO Sauce Labs - ********User logged in *********
+2022-02-03 16:12:12,881 [main] INFO Sauce Labs - ********Adding product to Cart*********
+2022-02-03 16:12:16,216 [main] INFO Sauce Labs - ********Getting Description and Price of Product from products page*********
+2022-02-03 16:12:17,254 [main] INFO Sauce Labs - ********Validate Product details displayed correctly in Cart page*********
+2022-02-03 16:12:18,280 [main] INFO Sauce Labs - ********Clicking on Checkout btn********
+2022-02-03 16:12:18,687 [main] INFO Sauce Labs - ********Enter Required User Details********
+2022-02-03 16:12:20,263 [main] INFO Sauce Labs - ********Clicking on Continue btn********
+2022-02-03 16:12:20,816 [main] INFO Sauce Labs - ********Clicking on Finish btn********
+2022-02-03 16:12:34,308 [main] INFO Sauce Labs - ******** Launching browser*********
+2022-02-03 16:12:34,544 [main] INFO Sauce Labs - ******** Opening URL*********
+2022-02-03 16:12:36,719 [main] INFO Sauce Labs - ******** Give login details*********
+2022-02-03 16:12:37,859 [main] INFO Sauce Labs - ********click Login button *********
+2022-02-03 16:12:38,909 [main] INFO Sauce Labs - ********Verify whether user logged in or not *********
+2022-02-03 16:12:40,080 [main] INFO Sauce Labs - ********User logged in *********
+2022-02-03 16:12:40,811 [main] INFO Sauce Labs - ********Verify Product Present in Products page********
+2022-02-03 16:12:54,314 [main] INFO Sauce Labs - ******** Launching browser*********
+2022-02-03 16:12:54,547 [main] INFO Sauce Labs - ******** Opening URL*********
+2022-02-03 16:12:56,788 [main] INFO Sauce Labs - ******** Give login details*********
+2022-02-03 16:12:58,372 [main] INFO Sauce Labs - ********click Login button *********
+2022-02-03 16:13:00,195 [main] INFO Sauce Labs - ********Verify whether user logged in or not *********
+2022-02-03 16:13:01,303 [main] INFO Sauce Labs - ********User logged in *********
+2022-02-03 16:13:01,882 [main] INFO Sauce Labs - ********Verify Product Price is Correctly Listed in Product Individual page********
+2022-02-03 16:13:44,184 [main] INFO Sauce Labs - ******** Launching browser*********
+2022-02-03 16:13:44,462 [main] INFO Sauce Labs - ******** Opening URL*********
+2022-02-03 16:13:46,643 [main] INFO Sauce Labs - ******** Give login details*********
+2022-02-03 16:13:47,991 [main] INFO Sauce Labs - ********click Login button *********
+2022-02-03 16:13:48,526 [main] INFO Sauce Labs - ********Validate Error Msg if Credentials Invalid********
